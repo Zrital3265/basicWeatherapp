@@ -1,2 +1,2 @@
 # basicWeatherapp
-Very basic weather app using js
+#### Basic weather app made by using JavaScript
